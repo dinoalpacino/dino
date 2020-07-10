@@ -1,2 +1,0 @@
-# dino
-untuk safelink
